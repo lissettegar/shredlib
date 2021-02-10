@@ -1,6 +1,6 @@
 class emails {
 def mails = [
-Michael:"darealmc@email.com",
-McClaren: "iamdarealmc@somemail.me"
+Lissette:"lissette.garcia@email.com",
+Jorge: "jorge.garcia@somemail.me"
 ]
 }
